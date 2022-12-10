@@ -9,14 +9,17 @@ const Profile = () => {
         <div className='profile-details'>
           <div className='colz'>
             <div className='colz-icon'>
-              <a href="#">
+              <a href="https://www.facebook.com/hasanulkarim.hasan1/">
                 <i className='fa fa-facebook-square'></i>
               </a>
-              <a href="#">
+              <a href="https://www.instagram.com/hasanulhasan/">
                 <i className='fa fa-instagram'></i>
               </a>
-              <a href="#">
+              <a href="​​https://github.com/hasanulhasan">
                 <i className='fa fa-github'></i>
+              </a>
+              <a href="​https://www.linkedin.com/in/md-hasanul-karim-49284910a/">
+                <i className='fa fa-linkedin'></i>
               </a>
             </div>
           </div>
@@ -36,7 +39,9 @@ const Profile = () => {
                   steps={[
                     "MERN Stack Developer",
                     1000,
-                    "Full Stack Developer",
+                    "Programming enthusiast",
+                    1000,
+                    "Programming enthusiast",
                     1000,
                   ]}>
                 </Typical>

@@ -16,7 +16,7 @@ const Projects = () => {
                 <img src={img1} alt="" height='180px' width='280px' />
                 <h2>01</h2>
                 <h3>Mobile Market</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>Mobile Buying and Selling related website</p>
                 <a href="#">DETAILS</a>
               </div>
             </div>
@@ -28,7 +28,7 @@ const Projects = () => {
                 <img src={img2} alt="" height='180px' width='280px' />
                 <h2>02</h2>
                 <h3>Eagle Engineering</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+                <p>Engineering service review related website</p>
                 <a href="#">DETAILS</a>
               </div>
             </div>
@@ -40,7 +40,7 @@ const Projects = () => {
                 <img src={img3} alt="" height='180px' width='280px' />
                 <h2>03</h2>
                 <h3>Learning Time</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?</p>
+                <p>Educational course information related website</p>
                 <a href="#">DETAILS</a>
               </div>
             </div>
