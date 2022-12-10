@@ -1,4 +1,5 @@
 import React from 'react';
+import Typical from 'react-typical';
 import './Profile.css';
 
 const Profile = () => {
@@ -29,7 +30,16 @@ const Profile = () => {
             <span className='primary-text'>
               {" "}
               <h1>
-                MERN Stack Developer
+
+                <Typical
+                  loop={Infinity}
+                  steps={[
+                    "MERN Stack Developer",
+                    1000,
+                    "Full Stack Developer",
+                    1000,
+                  ]}>
+                </Typical>
               </h1>
               <span className='profile-role-tagline'>
                 do many wonderful website by modern technology
@@ -37,7 +47,6 @@ const Profile = () => {
             </span>
           </div>
           <div className='profile-options'>
-
             <button className='btn primary-btn'>
               {""}
               Hire me{""}
@@ -46,16 +55,12 @@ const Profile = () => {
               <button className='btn highlighted-btn'>Get Resume</button>
             </a>
           </div>
-
         </div>
         <div className='profile-picture'>
           <div className='profile-picture-background'>
-
           </div>
         </div>
-
       </div>
-
     </div>
   );
 };
