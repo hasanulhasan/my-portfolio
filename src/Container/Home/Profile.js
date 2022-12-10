@@ -31,7 +31,7 @@ const Profile = () => {
               <h1>
                 MERN Stack Developer
               </h1>
-              <span>
+              <span className='profile-role-tagline'>
                 do many wonderful website by modern technology
               </span>
             </span>
