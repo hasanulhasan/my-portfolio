@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "Mobile Market",
+    "description": "Mobile Buying and Selling related website"
+  },
+  {
+    "id": "2",
+    "name": "Eagle Engineering",
+    "description": "Engineering service review related website"
+  },
+  {
+    "id": "3",
+    "name": "Learning Time",
+    "description": "Educational course information related website"
+  }
+]
