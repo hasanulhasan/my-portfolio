@@ -7,7 +7,7 @@ import img3 from '../../assets/Screenshot_4.png'
 const Projects = () => {
   return (
     <div>
-      <h1 className='porject-title'>My Projects</h1>
+      <h1 className='porject-title' id='projects'>My Projects</h1>
       <div className='container-body'>
         <div className="container">
           <div className="card">
@@ -45,6 +45,40 @@ const Projects = () => {
               </div>
             </div>
           </div>
+          <div className="card">
+            <div className="box">
+              <div className="content">
+                <img src={img3} alt="" height='180px' width='280px' />
+                <h2>03</h2>
+                <h3>Learning Time</h3>
+                <p>Educational course information related website</p>
+                <a href="#">DETAILS</a>
+              </div>
+            </div>
+          </div>
+          <div className="card">
+            <div className="box">
+              <div className="content">
+                <img src={img3} alt="" height='180px' width='280px' />
+                <h2>03</h2>
+                <h3>Learning Time</h3>
+                <p>Educational course information related website</p>
+                <a href="#">DETAILS</a>
+              </div>
+            </div>
+          </div>
+          <div className="card">
+            <div className="box">
+              <div className="content">
+                <img src={img3} alt="" height='180px' width='280px' />
+                <h2>03</h2>
+                <h3>Learning Time</h3>
+                <p>Educational course information related website</p>
+                <a href="#">DETAILS</a>
+              </div>
+            </div>
+          </div>
+
         </div>
       </div>
     </div>

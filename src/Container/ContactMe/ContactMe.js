@@ -4,7 +4,7 @@ import './ContactMe.css'
 const ContactMe = () => {
   return (
     <div>
-      <h1 className='form-title'>Get In touch with me</h1>
+      <h1 className='form-title' id='contact'>Get In touch with me</h1>
       <div className='form-body'>
         <div className="background">
           <div className="form-container">

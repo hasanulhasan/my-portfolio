@@ -15,7 +15,7 @@ const Profile = () => {
               <a href="https://www.instagram.com/hasanulhasan/">
                 <i className='fa fa-instagram'></i>
               </a>
-              <a href="​​https://github.com/hasanulhasan">
+              <a href="​​https://www.github.com/hasanulhasan/">
                 <i className='fa fa-github'></i>
               </a>
               <a href="​https://www.linkedin.com/in/md-hasanul-karim-49284910a/">
